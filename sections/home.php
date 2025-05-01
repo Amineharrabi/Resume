@@ -18,7 +18,7 @@
                 </p>
                 <div class="home-cta">
                     <a href="#contact" class="btn btn-primary">Contact Me</a>
-                    <a href="files/John_Doe_Resume.pdf" class="btn btn-outline" download>Download CV</a>
+                    <a href="files/Amine_Harrabi_Resume.pdf" class="btn btn-outline" download>Download CV</a>
                 </div>
             </div>
             

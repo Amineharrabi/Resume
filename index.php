@@ -8,7 +8,7 @@ require_once 'includes/functions.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Science Portfolio - John Doe</title>
+    <title>Data Science Portfolio - Amine harrabi</title>
     <meta name="description" content="Professional portfolio and resume of John Doe, Data Science student">
     
     <!-- Favicon -->
