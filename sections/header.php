@@ -2,7 +2,7 @@
 /**
  * Header section with navigation
  * 
- * @author John Doe
+ * @author Amine Harrabi
  */
 ?>
 <header class="header">
@@ -10,7 +10,7 @@
         <nav class="navbar">
             <a href="#home" class="logo">
                 <i class="fas fa-database"></i>
-                <span>John Doe</span>
+                <span>Amine harrabi</span>
             </a>
             
             <div class="menu-toggle">

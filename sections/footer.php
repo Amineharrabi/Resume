@@ -2,13 +2,13 @@
 /**
  * Footer section
  * 
- * @author John Doe
+ * @author Amine harrabi
  */
 ?>
 <footer class="footer">
     <div class="container">
         <div class="footer-container">
-            <p class="footer-text">&copy; <?php echo date('Y'); ?> John Doe. All rights reserved.</p>
+            <p class="footer-text">&copy; <?php echo date('Y'); ?> Amine harrabi. All rights reserved.</p>
             
             <div class="footer-links">
                 <a href="#home">Home</a>

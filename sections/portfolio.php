@@ -2,7 +2,7 @@
 /**
  * Portfolio/Gallery section
  * 
- * @author John Doe
+ * @author Amine Harrabi
  */
 ?>
 <section id="portfolio" class="portfolio section">
@@ -11,7 +11,7 @@
         
         <div class="portfolio-filters" data-aos="fade-up">
             <button class="portfolio-filter active" data-filter="all">All</button>
-            <button class="portfolio-filter" data-filter="visualization">Data Visualization</button>
+            <button class="portfolio-filter" data-filter="visualization">Data Classification</button>
             <button class="portfolio-filter" data-filter="ml">Machine Learning</button>
             <button class="portfolio-filter" data-filter="nlp">NLP</button>
             <button class="portfolio-filter" data-filter="dashboard">Dashboards</button>
@@ -24,13 +24,12 @@
                     <i class="fas fa-chart-pie"></i>
                 </div>
                 <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Global Energy Consumption Patterns</h3>
-                    <span class="portfolio-category">Data Visualization</span>
+                    <h3 class="portfolio-title">Real-time Patient Monitoring System</h3>
+                    <span class="portfolio-category">Data Visualization / classification</span>
                     <div class="portfolio-links">
-                        <a href="https://github.com/" target="_blank" aria-label="GitHub">
+                        <a href="https://github.com/" target="_blank" aria-label="GitHub">https://github.com/Amineharrabi/Real-timePatientMonitoringSystem
                             <i class="fab fa-github"></i>
                         </a>
-                        <a href="#" aria-label="Live Demo">
                             <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
@@ -43,13 +42,13 @@
                     <i class="fas fa-image"></i>
                 </div>
                 <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Image Classification for Environmental Monitoring</h3>
+                    <h3 class="portfolio-title">Image Classification for Environmental Monitoring Waste Classifier using Keras and CV2
+                   </h3>
                     <span class="portfolio-category">Machine Learning</span>
                     <div class="portfolio-links">
-                        <a href="https://github.com/" target="_blank" aria-label="GitHub">
+                        <a href="https://github.com/" target="_blank" aria-label="GitHub">https://github.com/Amineharrabi/Waste-Classifier-using-Keras-and-CV2
                             <i class="fab fa-github"></i>
                         </a>
-                        <a href="#" aria-label="Live Demo">
                             <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
@@ -81,13 +80,13 @@
                     <i class="fas fa-tachometer-alt"></i>
                 </div>
                 <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Business Intelligence Dashboard for Retail</h3>
-                    <span class="portfolio-category">Dashboards</span>
+                    <h3 class="portfolio-title">web-based application designed to help users manage their medications, appointments, prescriptions, emergency contacts, and notifications</h3>
+                    <span class="portfolio-category">Medical Assist tracker</span>
                     <div class="portfolio-links">
                         <a href="https://github.com/" target="_blank" aria-label="GitHub">
+                            https://github.com/Amineharrabi/MediAssistTracker
                             <i class="fab fa-github"></i>
                         </a>
-                        <a href="#" aria-label="Live Demo">
                             <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
@@ -100,10 +99,10 @@
                     <i class="fas fa-network-wired"></i>
                 </div>
                 <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Network Analysis of Social Media Interactions</h3>
-                    <span class="portfolio-category">Data Visualization</span>
+                    <h3 class="portfolio-title">mobile app that helps you discover and share music with friends using ai MATCHY </h3>
+                    <span class="portfolio-category">Music Information Retrieval</span>
                     <div class="portfolio-links">
-                        <a href="https://github.com/" target="_blank" aria-label="GitHub">
+                        <a href="https://github.com/" target="_blank" aria-label="GitHub">https://github.com/Amineharrabi/Matchy
                             <i class="fab fa-github"></i>
                         </a>
                         <a href="#" aria-label="Live Demo">
@@ -113,62 +112,8 @@
                 </div>
             </div>
             
-            <!-- Portfolio Item 6 -->
-            <div class="portfolio-item" data-category="ml">
-                <div class="portfolio-image">
-                    <i class="fas fa-chart-line"></i>
-                </div>
-                <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Stock Price Prediction Model</h3>
-                    <span class="portfolio-category">Machine Learning</span>
-                    <div class="portfolio-links">
-                        <a href="https://github.com/" target="_blank" aria-label="GitHub">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="#" aria-label="Live Demo">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
             
-            <!-- Portfolio Item 7 -->
-            <div class="portfolio-item" data-category="nlp">
-                <div class="portfolio-image">
-                    <i class="fas fa-newspaper"></i>
-                </div>
-                <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Automated News Summarizer</h3>
-                    <span class="portfolio-category">NLP</span>
-                    <div class="portfolio-links">
-                        <a href="https://github.com/" target="_blank" aria-label="GitHub">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="#" aria-label="Live Demo">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
+           
             
-            <!-- Portfolio Item 8 -->
-            <div class="portfolio-item" data-category="dashboard">
-                <div class="portfolio-image">
-                    <i class="fas fa-globe-americas"></i>
-                </div>
-                <div class="portfolio-overlay">
-                    <h3 class="portfolio-title">Climate Change Monitoring Dashboard</h3>
-                    <span class="portfolio-category">Dashboards</span>
-                    <div class="portfolio-links">
-                        <a href="https://github.com/" target="_blank" aria-label="GitHub">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="#" aria-label="Live Demo">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+           
 </section>

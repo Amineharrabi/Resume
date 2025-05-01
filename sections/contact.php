@@ -2,7 +2,7 @@
 /**
  * Contact section
  * 
- * @author John Doe
+ * @author Amine harrabi
  */
 ?>
 <section id="contact" class="contact section">
@@ -23,7 +23,7 @@
                     </div>
                     <div class="contact-text">
                         <h4>Email</h4>
-                        <p>john.doe@example.com</p>
+                        <p>Amineiiiiharrabi@gmail.com</p>
                     </div>
                 </div>
                 
@@ -33,7 +33,7 @@
                     </div>
                     <div class="contact-text">
                         <h4>Phone</h4>
-                        <p>+1 (555) 123-4567</p>
+                        <p>+216 93215359</p>
                     </div>
                 </div>
                 
@@ -43,7 +43,7 @@
                     </div>
                     <div class="contact-text">
                         <h4>Location</h4>
-                        <p>San Francisco, California</p>
+                        <p>Sfax , tunisia</p>
                     </div>
                 </div>
                 
@@ -53,7 +53,7 @@
                     </div>
                     <div class="contact-text">
                         <h4>LinkedIn</h4>
-                        <p><a href="https://linkedin.com/" target="_blank">linkedin.com/in/johndoe</a></p>
+                        <p><a href="https://linkedin.com/" target="_blank">https://tn.linkedin.com/in/amineharrabi</a></p>
                     </div>
                 </div>
             </div>

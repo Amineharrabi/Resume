@@ -12,38 +12,38 @@
         <div class="education-timeline" data-aos="fade-up" data-aos-delay="200">
             <!-- Master's Degree -->
             <div class="education-item">
-                <div class="education-date">2022 - Present</div>
-                <h3 class="education-degree">Master of Science in Data Science</h3>
-                <div class="education-institution">Stanford University</div>
+                <div class="education-date">2023 - Present</div>
+                <h3 class="education-degree">pre-engineering in Data</h3>
+                <div class="education-institution">sfax University of science </div>
                 <p class="education-description">
-                    Specializing in Machine Learning and Artificial Intelligence with a focus on Computer Vision and Natural Language Processing. 
+                    majoring in Machine Learning and Artificial Intelligence with a focus on Computer Vision and Natural Language Processing. 
                     Coursework includes Advanced Statistical Methods, Deep Learning, Big Data Systems, and Reinforcement Learning.
+                    minoring in Mathematics , physics to strengthen my theoretical foundation.
+                    fullstack developement to improve my skills in web development.
                 </p>
             </div>
             
-            <!-- Bachelor's Degree -->
             <div class="education-item">
-                <div class="education-date">2018 - 2022</div>
+                <div class="education-date">2022 - 2023</div>
                 <h3 class="education-degree">Bachelor of Science in Computer Science</h3>
-                <div class="education-institution">University of California, Berkeley</div>
+                <div class="education-institution">high school Garçon sfax</div>
                 <p class="education-description">
-                    Graduated with a 3.85 GPA with a minor in Mathematics. Completed specialized coursework in Data Structures, 
-                    Algorithms, Machine Learning, and Database Systems. 
-                    Recipient of the Dean's Honors List for academic excellence for four consecutive semesters.
+                    Graduated with a 15,36 score Completed specialized coursework in Data Structures, 
+                    Algorithms, and Database Systems. 
                 </p>
             </div>
             
-            <!-- Certifications -->
             <div class="education-item">
-                <div class="education-date">2020 - 2023</div>
+                <div class="education-date">2023 - 2025</div>
                 <h3 class="education-degree">Professional Certifications</h3>
                 <div class="education-institution">Various Organizations</div>
                 <p class="education-description">
                     <ul>
                         <li>IBM Data Science Professional Certificate (Coursera)</li>
                         <li>Deep Learning Specialization by Andrew Ng (Coursera)</li>
-                        <li>TensorFlow Developer Certificate (Google)</li>
+                        <li>TensorFlow Developer Certificate (Udemy)</li>
                         <li>Microsoft Certified: Azure Data Scientist Associate</li>
+                        <li>Python for data engineering (Coursera)</li>
                     </ul>
                 </p>
             </div>
