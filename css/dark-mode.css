@@ -1,0 +1,77 @@
+/* 
+ * Dark Mode Stylesheet for Data Science Portfolio
+ * Author: John Doe
+ */
+
+body.dark-theme {
+    --primary-color: #4d84e9;
+    --primary-dark: #3066d4;
+    --secondary-color: #a0a0a0;
+    --accent-color: #05c2c9;
+    --text-color: #e1e1e1;
+    --text-light: #a0a0a0;
+    --bg-color: #1a1a1a;
+    --bg-secondary: #252525;
+    --border-color: #333333;
+    --card-bg: #252525;
+    --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme #theme-toggle .fa-moon {
+    display: none;
+}
+
+body.dark-theme #theme-toggle .fa-sun {
+    display: block;
+}
+
+body.dark-theme .project-image,
+body.dark-theme .portfolio-image {
+    background-color: #333333;
+}
+
+body.dark-theme .form-control {
+    background-color: #1a1a1a;
+    border-color: #333333;
+    color: #e1e1e1;
+}
+
+body.dark-theme .alert-success {
+    background-color: rgba(40, 167, 69, 0.2);
+    border-color: rgba(40, 167, 69, 0.3);
+}
+
+body.dark-theme .alert-error {
+    background-color: rgba(220, 53, 69, 0.2);
+    border-color: rgba(220, 53, 69, 0.3);
+}
+
+body.dark-theme .skill-tag,
+body.dark-theme .project-tech span,
+body.dark-theme .modal-tech-stack span {
+    background-color: rgba(77, 132, 233, 0.2);
+}
+
+body.dark-theme .portfolio-filter {
+    border-color: #333333;
+}
+
+body.dark-theme .contact-icon {
+    background-color: rgba(77, 132, 233, 0.2);
+}
+
+/* Animations adjustments for dark mode */
+body.dark-theme .portfolio-overlay {
+    background-color: rgba(77, 132, 233, 0.9);
+}
+
+/* Code blocks styling for dark mode */
+body.dark-theme code {
+    background-color: #333333;
+    color: #4d84e9;
+}
+
+body.dark-theme pre {
+    background-color: #333333;
+    border: 1px solid #444444;
+}
