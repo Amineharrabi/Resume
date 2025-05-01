@@ -285,6 +285,10 @@ img {
     bottom: 0;
     width: 50%;
     background-color: rgba(39, 110, 241, 0.05);
+    background-image: url('../CFprofile.jpg');
+    background-size: contain;
+    background-position: right center;
+    background-repeat: no-repeat;
     clip-path: polygon(15% 0, 100% 0, 100% 100%, 0% 100%);
     z-index: 1;
 }
@@ -1153,3 +1157,4 @@ textarea.form-control {
         height: 40px;
     }
 }
+
